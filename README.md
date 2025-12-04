@@ -45,9 +45,9 @@ It serves as a reference for beginners to see how conditional logic is expressed
 3. Add your example & optionally a short description.
 4. Update the Languages Covered list in this README.
 
-# LLanguages Covered 🛠️
+# Languages Covered 🛠️
 
-- [x]   AHK ✅
+- [ ]   AHK ✅
 - [ ]   Python 🐍
 - [ ]   Java ☕
 - [ ]   JavaScript
@@ -57,3 +57,5 @@ It serves as a reference for beginners to see how conditional logic is expressed
 - Look for the “good first issue” tag if you’re new.
 - PRs with new languages get a shoutout in the README 😎
 - Have fun! Contributions don’t need to be perfect—learning is the point.
+
+
